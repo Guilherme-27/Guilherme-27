@@ -20,9 +20,7 @@ Projeto final do curso CS50P (Harvard): um programa em Python que aceita uma URL
 * Download de áudio com **yt-dlp**
 * Transcrição com **Whisper**
 * Visualização com **Wordcloud** e **Matplotlib**
-
-![Exemplo de Wordcloud](https://raw.githubusercontent.com/Guilherme-27/yt-wordcloud/main/wordcloud.png)
-
+  
 ---
 
 ## 📚 Atualmente estudando
