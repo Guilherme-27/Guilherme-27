@@ -2,24 +2,38 @@
 
 Sou **professor da rede pública de São Paulo** e estou em transição de carreira para a área de **Tecnologia da Informação**, estudando desenvolvimento de software e criando soluções para problemas do cotidiano escolar.
 
-## 🧠 Projeto em destaque
+## 🧠 Projetos em Destaque
 
-### [📌 Lançador de Notas – Automatize o lançamento no Sala do Futuro](https://guilherme-27.github.io/lancador-notas-sed-site/)
+### 🎯 [Lançador de Notas – Automatize o lançamento no Sala do Futuro](https://guilherme-27.github.io/lancador-notas-sed-site/)
 
-Ferramenta gratuita desenvolvida em **Python + Selenium** para ajudar professores da rede pública a automatizar o lançamento de notas dos alunos do **TarefaSP** no sistema **Sala do Futuro**.
+Ferramenta gratuita desenvolvida em **Python + Selenium** para auxiliar professores da rede pública a automatizar o lançamento de notas dos alunos do **TarefaSP** no sistema **Sala do Futuro**.
 
-- Interface gráfica amigável com **Tkinter**
-- Automação de navegador com **Selenium**
-- CSV processado com **Pandas**
-- Empacotado em `.exe` para facilitar o uso por qualquer professor
+* Interface gráfica com **Tkinter**
+* Automação de navegador com **Selenium**
+* Processamento de CSV com **Pandas**
+* Empacotado em `.exe` para facilitar o uso por qualquer professor
 
-## 💻 O que estou estudando atualmente
+### ☁️ [yt-wordcloud – Transcrição de vídeos e nuvem de palavras](https://github.com/Guilherme-27/yt-wordcloud)
 
-- Desenvolvimento full-stack (JavaScript, Python)
-- Estrutura de dados e algoritmos
-- Automação com Python
-- HTML, CSS e GitHub Pages
+Projeto final do curso CS50P (Harvard): um programa em Python que aceita uma URL do YouTube, transcreve o conteúdo com o modelo **Whisper** e gera automaticamente uma nuvem de palavras baseada no áudio.
 
-## 🤝 Vamos conversar?
+* Download de áudio com **yt-dlp**
+* Transcrição com **Whisper**
+* Visualização com **Wordcloud** e **Matplotlib**
+
+![Exemplo de Wordcloud](https://raw.githubusercontent.com/Guilherme-27/yt-wordcloud/main/wordcloud.png)
+
+---
+
+## 📚 Atualmente estudando
+
+* Python e testes automatizados com Pytest
+* Estruturas de dados e algoritmos
+* Desenvolvimento web com HTML, CSS e JS
+* Automação com Selenium
+* Git e GitHub para versionamento
+* Fundamentos de Cloud (Azure AZ-900)
+
+## 🤝 Vamos Conversar?
 
 Se quiser trocar uma ideia sobre tecnologia na educação, Python ou automação, estou por aqui!
